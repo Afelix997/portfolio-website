@@ -19,7 +19,7 @@ function Projects(props) {
           allowfullscreen>
         </iframe>
           <strong>Description</strong><br />
-           <p className='my-0'>Recipe generation app that helps all home cooks unlock their full potential!</p>
+           <p className='my-0'>Social platform for video gamers and anime fans to engage in discussion, poll topics and plan real world events!</p>
         </Card.Text>
         <Card.Text>
           <strong>Tech Used</strong><br />
@@ -40,7 +40,7 @@ function Projects(props) {
           allowfullscreen>
         </iframe>
           <strong>Description</strong><br />
-           <p className='my-0'>Social platform for video gamers and anime fans to engage in discussion, poll topics and plan real world events!</p>
+           <p className='my-0'>Recipe generation app that helps all home cooks unlock their full potential!</p>
         </Card.Text>
         <Card.Text>
           <strong>Tech Used</strong><br />
