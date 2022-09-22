@@ -19,7 +19,7 @@ function SkillsAndCerts(props) {
 
   return (
     <SectionTemplate motionKey="skillsAndCerts">
-      <Row className="justify-content-center" >
+      <Row className="justify-content-center align-items-center" >
         
           {skillData && renderSkills()}
         
