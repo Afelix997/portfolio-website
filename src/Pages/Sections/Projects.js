@@ -56,7 +56,7 @@ function Projects(props) {
         <Card.Title className="text-success"><h2>Yelp Camp</h2></Card.Title>
         
         <Card.Text><img  width="366" height="200" src="https://res.cloudinary.com/dbg5wxccv/image/upload/v1663826601/YelpCamp/YelpCampImg_zjkeye.png"/>
-          <a href="https://serene-lowlands-64973.herokuapp.com/">Link</a>
+          <a href="https://serene-lowlands-64973.herokuapp.com/">Link</a><br/>
           <strong>Description</strong><br />
            <p className='my-0'>Campground review app built for 'The Web Developer Bootcamp 2022' Udemy course certification. </p>
         </Card.Text>
