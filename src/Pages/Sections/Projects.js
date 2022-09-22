@@ -49,7 +49,23 @@ function Projects(props) {
       </Card.Body>
     </Card>
       </Carousel.Item> 
-      
+      <Carousel.Item>
+       <Card className="m-2 " bg="transparent" style={{ width: '25rem' }}>
+      <Card.Body>
+        
+        <Card.Title className="text-success"><h2>Yelp Camp</h2></Card.Title>
+        
+        <Card.Text><img  width="366" height="200" src="https://res.cloudinary.com/dbg5wxccv/image/upload/v1663826601/YelpCamp/YelpCampImg_zjkeye.png"/>
+          <strong>Description</strong><br />
+           <p className='my-0'>Social platform for video gamers and anime fans to engage in discussion, poll topics and plan real world events!</p>
+        </Card.Text>
+        <Card.Text>
+          <strong>Tech Used</strong><br />
+          <p>React, Django, Django REST Framework, Postgres, AWS deployment</p>
+        </Card.Text>
+      </Card.Body>
+    </Card>
+      </Carousel.Item> 
       </Carousel>
     
       
