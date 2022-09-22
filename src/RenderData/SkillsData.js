@@ -36,12 +36,16 @@ export const skillData = [
     icon: 'https://images.credly.com/size/680x680/images/f0adcc07-4388-459f-9b98-9a487ff1e8fd/cert_mark_SP_badge_large_300px.png'
   },
   {
+    title: 'Git',
+    icon: "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+  },
+  {
     title: 'Node.js',
-    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663827640/YelpCamp/nodejs-1-logo-png-transparent_ynhoha.png"
+    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663828590/YelpCamp/nodeimg_zq0iis.jpg"
   },
   {
     title: 'Express.js',
-    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663827912/YelpCamp/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476_kizzyq.png"
+    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663828762/YelpCamp/expressimg_hhm8xo.jpg"
   },
   {
     title: 'MongoDB',
