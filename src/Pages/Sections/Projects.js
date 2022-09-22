@@ -56,12 +56,13 @@ function Projects(props) {
         <Card.Title className="text-success"><h2>Yelp Camp</h2></Card.Title>
         
         <Card.Text><img  width="366" height="200" src="https://res.cloudinary.com/dbg5wxccv/image/upload/v1663826601/YelpCamp/YelpCampImg_zjkeye.png"/>
+          <a href="https://serene-lowlands-64973.herokuapp.com/">Link</a>
           <strong>Description</strong><br />
-           <p className='my-0'>Social platform for video gamers and anime fans to engage in discussion, poll topics and plan real world events!</p>
+           <p className='my-0'>Campground review app built for 'The Web Developer Bootcamp 2022' Udemy course certification. </p>
         </Card.Text>
         <Card.Text>
           <strong>Tech Used</strong><br />
-          <p>React, Django, Django REST Framework, Postgres, AWS deployment</p>
+          <p>Node.js, Express.js, MongoDB, HTML, Boostrap, CSS, Mapbox API, JOI validation, Heroku deployment</p>
         </Card.Text>
       </Card.Body>
     </Card>

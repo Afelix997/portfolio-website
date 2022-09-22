@@ -36,7 +36,15 @@ export const skillData = [
     icon: 'https://images.credly.com/size/680x680/images/f0adcc07-4388-459f-9b98-9a487ff1e8fd/cert_mark_SP_badge_large_300px.png'
   },
   {
-    title: 'Git',
-    icon: "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    title: 'Node.js',
+    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663827640/YelpCamp/nodejs-1-logo-png-transparent_ynhoha.png"
+  },
+  {
+    title: 'Express.js',
+    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663827912/YelpCamp/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476_kizzyq.png"
+  },
+  {
+    title: 'MongoDB',
+    icon: "https://res.cloudinary.com/dbg5wxccv/image/upload/v1663828016/YelpCamp/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e36b1814.0344731115305261794387_1_i0pi6o.png"
   }
 ]
